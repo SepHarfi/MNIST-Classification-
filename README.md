@@ -1,3 +1,3 @@
 # MNIST-Classification-
-This project is one of the Introduction to Machine learning course's practical exercises. It aims to implement a CNN using PyTorch for classification of MNIST dataset. 
+This project was one of the "Introduction to Machine learning Fall 2022" course's practical exercises. It aims to implement a CNN using torch for classification of MNIST dataset. 
 
